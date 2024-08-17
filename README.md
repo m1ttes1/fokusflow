@@ -20,7 +20,7 @@ Fokus é uma aplicação simples desenvolvida em JavaScript que ajuda a otimizar
 
 1. Clone o repositório para sua máquina local.
    ```bash
-   git clone https://github.com/seuusuario/fokus.git
+   git clone https://github.com/seuusuario/fokusflow.git
    ```
 2. Abra o arquivo `index.html` em seu navegador.
 
